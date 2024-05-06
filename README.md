@@ -6,7 +6,7 @@
 
 [Loaded test cases for modules: Registration/Authorization and Product Catalog](https://github.com/LRafaL/Docs/blob/main/Test%20set.pdf)
 
-[Defect reports created in YouTrack](https://github.com/LRafaL/Docs/blob/main/Issues%20bug%20reports.xlsx)
+[Defect reports created in YouTrack]()
 
 [Test run created in Qase]( https://github.com/LRafaL/Docs/blob/main/G7-Express%2Brun%2B2024_05_04.pdf)
 
