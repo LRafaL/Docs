@@ -8,6 +8,8 @@
 
 [Defect reports created in YouTrack](https://github.com/LRafaL/Docs/blob/main/Issues%20bug%20reports.xlsx)
 
+[Test run created in Qase]( https://github.com/LRafaL/Docs/blob/main/G7-Express%2Brun%2B2024_05_04.pdf)
+
 
 
 
