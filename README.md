@@ -6,5 +6,8 @@
 
 [Loaded test cases for modules: Registration/Authorization and Product Catalog](https://github.com/LRafaL/Docs/blob/main/Test%20set.pdf)
 
+[Defect reports created in YouTrack](https://github.com/LRafaL/Docs/blob/main/Issues%20bug%20reports.xlsx)
+
+
 
 
